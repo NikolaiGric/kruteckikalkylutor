@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Практическая работа по АОиП СК №1": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
